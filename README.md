@@ -2,7 +2,7 @@
 # Sajjad Ahmed
 ### CS & AI Engineer | Building Data Tools for Sustainability
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjad-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-ahmed-40159b250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sajjadahmed.mubeen2@gmail.com)
 [![SCR®](https://img.shields.io/badge/SCR®_Certified-GARP-darkgreen?style=flat)](https://www.garp.org/scr)
 
